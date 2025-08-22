@@ -7,7 +7,7 @@ The codes of the simulate data and real data are described as follows:
 The code of real data is named as "demonRealData.m".
 Running the "demonRealData.m" file can obtain the results of real data of our algorithm.
 
- Inputs:
+Inputs:
        X    -- the sample data, dimension, \in\R^{m-by-n}; (required)
        y    -- the classes of the sample data, \in\R^m; (required)
        y_i \in {+1,-1}, i=1,2,...,m
