@@ -2,7 +2,7 @@ This code corresponds to the paper "Sparse and robust elastic net support vector
 
 If you are using our code, please give proper citation to the above given paper.
 
-The codes of the simulate data and real data are described as follows:
+The codes of the real data is described as follows:
 
 The code of real data is named as "demonRealData.m".
 Running the "demonRealData.m" file can obtain the results of real data of our algorithm.
